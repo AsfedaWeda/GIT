@@ -2,9 +2,10 @@
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		System.out.println("Hola món!");
+		printHola();
 	}
 
+	public static void printHola(){
+   System.out.println("Hola món!");
+	}
 }
